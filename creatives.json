@@ -1,0 +1,27 @@
+{
+  "recommendations": [
+    {
+      "campaign_name": "Spring_Sale_Prospecting",
+      "adset_name": "Cold_Interest_Fashion",
+      "original_creative_message": "Shop our new spring collection now.",
+      "original_ctr": 0.004,
+      "audience_type": "prospecting",
+      "country": "US",
+      "creative_type": "image",
+      "suggested_creatives": [
+        {
+          "headline": "Spring Styles Under $39 — Ending Soon",
+          "primary_text": "Your new everyday outfit is here. Discover best-selling dresses, tops and jeans picked for your style — with free returns.",
+          "cta": "Shop Now",
+          "rationale": "Adds price anchoring, urgency, and a risk-reducer (free returns) while keeping the original spring-collection concept."
+        },
+        {
+          "headline": "Swipe Into Spring: 2 Outfits for the Price of 1",
+          "primary_text": "Build your perfect spring look in minutes. Mix & match tops and bottoms, then check out with our 2-for-1 bundle.",
+          "cta": "Get Offer",
+          "rationale": "Introduces bundle offer and value framing to attract cold audiences."
+        }
+      ]
+    }
+  ]
+}

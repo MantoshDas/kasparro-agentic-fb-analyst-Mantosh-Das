@@ -1,0 +1,27 @@
+{
+  "validated_hypotheses": [
+    {
+      "id": "H1",
+      "subtask_id": "ST_ROAS_DROP",
+      "description": "ROAS dropped in October due to falling CTR and rising CPC in retargeting audiences.",
+      "evidence": [
+        {
+          "metric": "ctr",
+          "detail": "Retargeting CTR declined from 2.8% in September to 1.9% in October.",
+          "before_value": 0.028,
+          "after_value": 0.019,
+          "relative_change": -0.321
+        },
+        {
+          "metric": "roas",
+          "detail": "Retargeting ROAS fell from 4.2 to 2.9 over the same period.",
+          "before_value": 4.2,
+          "after_value": 2.9,
+          "relative_change": -0.309
+        }
+      ],
+      "final_confidence": 0.82,
+      "verdict": "supported"
+    }
+  ]
+}
